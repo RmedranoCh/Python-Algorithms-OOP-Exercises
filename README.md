@@ -25,15 +25,7 @@ The exercises are organized by complexity level:
 ## 🛠️ How to Run the Exercises
 
 All scripts are ready to be executed directly from your terminal.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RmedranoCh/Python-Algorithms-OOP-Exercises.git
-   ```
-2. Run any file using Python 3:
-   ```bash
-   python file_name.py
-   ```
+* Run any file using Python 3
 
 ## 📚 Useful Resources
 *   [Official Python Documentation](https://python.org)
