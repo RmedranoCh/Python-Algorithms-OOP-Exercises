@@ -28,7 +28,7 @@ All scripts are ready to be executed directly from your terminal.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/RmedranoCh/Python-Algorithms-OOP-Exercises.git
    ```
 2. Run any file using Python 3:
    ```bash
